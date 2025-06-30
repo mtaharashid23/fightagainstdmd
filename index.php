@@ -173,7 +173,7 @@ include 'include/header.php' ?>
 <!-- Family End -->
 
 <!-- Donate About Start -->
-<section class="about" id="donate">
+<section class="donate_about about" id="donate">
     <h2 class="light-text">Donate</h2>
     <figure class="about-rightImg">
         <img src="images/about3.png" alt="image" class="img-fluid">

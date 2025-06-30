@@ -7,8 +7,8 @@
                     <img src="images/logo-white.png" alt="image" class="img-fluid">
                 </a>
                 <p>
-                    Together, we stand with Ibrahim and every child battling Duchenne Muscular Dystrophy. Your support
-                    helps provide vital treatments, care, and hope for a better tomorrow.
+                    Together, we stand with Ibrahim and those battling Duchenne Muscular Dystrophy. Your support helps
+                    provide vital treatments, care, and hope for a better tomorrow.
                 </p>
             </div>
             <div class="col-md-3">
@@ -30,8 +30,6 @@
                     <ul>
                         <li><a href=""><i class="fa-brands fa-facebook-f"></i></a></li>
                         <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
-                        <li><a href=""><i class="fa-brands fa-tiktok"></i></a></li>
-                        <li><a href=""><i class="fa-brands fa-linkedin-in"></i></a></li>
                     </ul>
                 </div>
             </div>

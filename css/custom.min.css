@@ -478,3 +478,7 @@ html.lenis body {
 	gap: 1rem;
 	margin: .5rem 0 1.5rem;
 }
+
+.donate_about .about__content {
+    margin: 8rem 0 0;
+}
